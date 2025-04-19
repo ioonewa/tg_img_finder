@@ -1,0 +1,5 @@
+python-dotenv
+
+telethon==1.39
+
+db-sqlite3
